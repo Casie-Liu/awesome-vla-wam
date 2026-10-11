@@ -580,6 +580,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 ## Survey
 
+- No Free Checker: A Survey of Verifiers for Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2609.09250-b31b1b.svg)](https://arxiv.org/abs/2609.09250) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ZJUSCL/Awesome-Robot-Verifier)
+
 - Data Pyramid for Embodied Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2607.24744-b31b1b.svg)](https://arxiv.org/abs/2607.24744) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jasper-aaa.github.io/embodied-data-pyramid/)
 
 - Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. [![arXiv](https://img.shields.io/badge/arXiv-2605.02900-b31b1b.svg)](https://arxiv.org/abs/2605.02900) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
