@@ -644,6 +644,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 ## Benchmark / Environment
 
+- **DuoBench**, DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulation and the Real World. [![arXiv](https://img.shields.io/badge/arXiv-2606.11901-b31b1b.svg)](https://arxiv.org/abs/2606.11901) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://duobench.github.io)
+
 - **RoboDojo**, RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies. [![arXiv](https://img.shields.io/badge/arXiv-2607.04434-b31b1b.svg)](https://arxiv.org/abs/2607.04434) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robodojo-benchmark.com)
 
 - [⭐️] **RoboLab**, RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies. [![arXiv](https://img.shields.io/badge/arXiv-2604.09860-b31b1b.svg)](https://arxiv.org/abs/2604.09860) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/srl/projects/robolab/)
@@ -689,6 +691,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 ## Software
 
 - **Embodied.cpp**, Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. [![arXiv](https://img.shields.io/badge/arXiv-2607.02501-b31b1b.svg)](https://arxiv.org/abs/2607.02501) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/SEU-PAISys/Embodied.cpp)
+
+- **RCS**, Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale. [![arXiv](https://img.shields.io/badge/arXiv-2509.14932-b31b1b.svg)](https://arxiv.org/abs/2509.14932) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotcontrolstack.org)
 
 - [⭐️] **ROS**, Robot Operating System. [![arXiv](https://img.shields.io/badge/arXiv-2009-b31b1b.svg)](https://ai.stanford.edu/~mquigley/papers/icra2009-ros.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.ros.org)
 
