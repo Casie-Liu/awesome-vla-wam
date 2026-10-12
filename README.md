@@ -644,10 +644,10 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 ## Benchmark / Environment
 
-- **DuoBench**, DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulation and the Real World. [![arXiv](https://img.shields.io/badge/arXiv-2606.11901-b31b1b.svg)](https://arxiv.org/abs/2606.11901) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://duobench.github.io)
-
 - **RoboDojo**, RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies. [![arXiv](https://img.shields.io/badge/arXiv-2607.04434-b31b1b.svg)](https://arxiv.org/abs/2607.04434) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robodojo-benchmark.com)
 
+- **DuoBench**, DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulation and the Real World. [![arXiv](https://img.shields.io/badge/arXiv-2606.11901-b31b1b.svg)](https://arxiv.org/abs/2606.11901) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://duobench.github.io)
+  
 - [⭐️] **RoboLab**, RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies. [![arXiv](https://img.shields.io/badge/arXiv-2604.09860-b31b1b.svg)](https://arxiv.org/abs/2604.09860) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/srl/projects/robolab/)
 
 - **RMBench**, RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design. [![arXiv](https://img.shields.io/badge/arXiv-2603.01229-b31b1b.svg)](https://arxiv.org/abs/2603.01229) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rmbench.github.io)
