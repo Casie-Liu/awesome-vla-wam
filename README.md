@@ -273,7 +273,7 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **NitroGen**, NitroGen: An Open Foundation Model for Generalist Gaming Agents. [![arXiv](https://img.shields.io/badge/arXiv-2601.02427-b31b1b.svg)](https://arxiv.org/abs/2601.02427) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nitrogen.minedojo.org)
 
-- **Puffin**, Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation. [![arXiv](https://img.shields.io/badge/arXiv-2510.086735-b31b1b.svg)](https://arxiv.org/abs/2510.086735) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin/)
+- **Puffin**, Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation. [![arXiv](https://img.shields.io/badge/arXiv-2510.08673-b31b1b.svg)](https://arxiv.org/abs/2510.08673) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin/)
 
 - **Yume**, Yume: An Interactive World Generation Model. [![arXiv](https://img.shields.io/badge/arXiv-2507.17744-b31b1b.svg)](https://arxiv.org/abs/2507.17744) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://stdstu12.github.io/YUME-Project/)
 
@@ -309,7 +309,7 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **Temporal Ratio**, Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio. [![arXiv](https://img.shields.io/badge/arXiv-2607.08127-b31b1b.svg)](https://arxiv.org/abs/2607.08127) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umishra.me/temporal-ratio/)
 
-- **LingBot-VA 2**, Native Video-Action Pretraining for Generalizable Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-22607.08639-b31b1b.svg)](https://arxiv.org/abs/2607.08639v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va-v2)
+- **LingBot-VA 2**, Native Video-Action Pretraining for Generalizable Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2607.08639-b31b1b.svg)](https://arxiv.org/abs/2607.08639v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va-v2)
 
 - **FlowWAM**, FlowWAM: Optical Flow as a Unified Action Representation for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2607.13017-b31b1b.svg)](https://arxiv.org/abs/2607.13017) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
 
@@ -321,7 +321,7 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **Flash-WAM**, Flash-WAM: Modality-Aware Distillation for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.05254-b31b1b.svg)](https://arxiv.org/abs/2606.05254) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flashwam.github.io)
 
-- [⭐️] **Kairos**, Kairos: A Native World Model Stack for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.1653-b31b1b.svg)](https://arxiv.org/abs/2606.16533) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/kairos-agi/kairos-sensenova)
+- [⭐️] **Kairos**, Kairos: A Native World Model Stack for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.16533-b31b1b.svg)](https://arxiv.org/abs/2606.16533) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/kairos-agi/kairos-sensenova)
 
 - **ImageWAM**, ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? [![arXiv](https://img.shields.io/badge/arXiv-2606.19531-b31b1b.svg)](https://arxiv.org/abs/2606.19531) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhangwenyao1.github.io/ImageWAM/)
 
@@ -329,7 +329,7 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - [⭐️] **Cosmos 3**, Cosmos 3: Omnimodal World Models for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg)](https://arxiv.org/abs/2606.02800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
-- **MemoryWAM**, MemoryWAM: Efficient World Action Modeling with Persistent Memory. [![arXiv](https://img.shields.io/badge/arXiv-22606.20562-b31b1b.svg)](https://arxiv.org/abs/2606.20562) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yangsizhe.github.io/MemoryWAM/)
+- **MemoryWAM**, MemoryWAM: Efficient World Action Modeling with Persistent Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.20562-b31b1b.svg)](https://arxiv.org/abs/2606.20562) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yangsizhe.github.io/MemoryWAM/)
 
 - **τ0-WM**, τ0-WM: A Unified Video-Action World Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.01027-b31b1b.svg)](https://arxiv.org/abs/2606.01027) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://finch.agibot.com/research/tau0-wm)
 
@@ -345,7 +345,7 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **DeFI**, Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2604.16391-b31b1b.svg)](https://arxiv.org/abs/2604.16391) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/LogosRoboticsGroup/DeFi)
 
-- **Being-H0.7**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2604-b31b1b.svg)](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.beingbeyond.com/being-h07)
+- **Being-H0.7**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2605.00078-b31b1b.svg)](https://arxiv.org/abs/2605.00078) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.beingbeyond.com/being-h07)
 
 - **WAV**, World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry. [![arXiv](https://img.shields.io/badge/arXiv-2604.01985-b31b1b.svg)](https://arxiv.org/abs/2604.01985) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-action-verifier.github.io)
 
@@ -569,7 +569,7 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **HumanEgo**, HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2605.24934-b31b1b.svg)](https://arxiv.org/abs/2605.24934) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humanego-ai.github.io)
 
-- **Being-H0.7**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2604-b31b1b.svg)](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.beingbeyond.com/being-h07)
+- **Being-H0.7**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2605.00078-b31b1b.svg)](https://arxiv.org/abs/2605.00078) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.beingbeyond.com/being-h07)
 
 - [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
 
@@ -694,7 +694,7 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **RCS**, Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale. [![arXiv](https://img.shields.io/badge/arXiv-2509.14932-b31b1b.svg)](https://arxiv.org/abs/2509.14932) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotcontrolstack.org)
 
-- [⭐️] **ROS**, Robot Operating System. [![arXiv](https://img.shields.io/badge/arXiv-2009-b31b1b.svg)](https://ai.stanford.edu/~mquigley/papers/icra2009-ros.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.ros.org)
+- [⭐️] **ROS**, Robot Operating System. [![arXiv](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://ai.stanford.edu/~mquigley/papers/icra2009-ros.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.ros.org)
 
 ## Hardware
 
