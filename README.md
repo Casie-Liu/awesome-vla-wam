@@ -481,6 +481,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **ActionMap**, ActionMap: Robot Policy Learning via Voxel Action Heatmap. [![arXiv](https://img.shields.io/badge/arXiv-2606.06904-b31b1b.svg)](https://arxiv.org/abs/2606.06904) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/ActionMap/)
 
+- **ENAP**, Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2603.25903-b31b1b.svg)](https://arxiv.org/abs/2603.25903) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://intelligent-control-lab.github.io/ENAP-project-webpage/)
+
 - **Know Your Camera**, Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning. [![arXiv](https://img.shields.io/badge/arXiv-2510.02268-b31b1b.svg)](https://arxiv.org/abs/2510.02268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ripl.github.io/know_your_camera/)
 
 - **State-free Policy**, Do You Need Proprioceptive States in Visuomotor Policies?. [![arXiv](https://img.shields.io/badge/arXiv-2509.18644-b31b1b.svg)](https://arxiv.org/abs/2509.18644) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://statefreepolicy.github.io)
